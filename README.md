@@ -12,4 +12,4 @@ The datasets are provided with [CC BY-NC-ND License](http://creativecommons.org/
 ## Citation
 If you use these datasets in your work, please cite our paper: 
 
-P. Treepong, N. Theera-Ampornpunt, "Early Bread Mold Detection Through Microscopic Images Using Convolutional Neural Network," *Current Research in Food Science*, vol. 7, 2023. https://doi.org/10.1016/j.crfs.2023.100574
+P. Treepong, N. Theera-Ampornpunt, "Early Bread Mold Detection Through Microscopic Images Using Convolutional Neural Network," *Current Research in Food Science*, vol. 7, pp. 1–11, Aug. 2023. https://doi.org/10.1016/j.crfs.2023.100574
