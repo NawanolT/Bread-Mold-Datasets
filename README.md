@@ -1,7 +1,7 @@
 # Bread Mold Datasets
-Datasets of 50x microscopic images of bread with and without mold
+Datasets of 50x microscopic images of bread with and without mold for the fungi detection task
 
-The datasets include 2,983 50x microscopic images of white sandwich bread and whole wheat bread. There are two classes: 0 (no mold) and 1 (moldy). Each dataset is divided into a training set, a validation set, and a test set.
+The datasets include 2,983 50x microscopic images of white sandwich bread and whole wheat bread made for the fungi detection task. There are two classes: 0 (no mold) and 1 (moldy). Each dataset is divided into a training set, a validation set, and a test set.
 
 ## Download
 Bread_Mold_Datasets.zip (14 GB) https://drive.google.com/file/d/12UjZOPsFDxVej2aKGj18JVIAOs_EKN4y/view?usp=sharing
